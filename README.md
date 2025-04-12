@@ -1,1 +1,2 @@
 # redesigned-adventure
+Este projeto é um Sistema de Gestão para um Pet Shop, desenvolvido com Programação Orientada a Objetos (POO). Ele permite gerenciar serviços de banho, tosa e consultas veterinárias para cachorros, gatos e pássaros, considerando preços diferenciados e características específicas de cada animal. O código de herança, polimorfismo e encapsulamento, este projeto foi circulado por estudantes da universidade católica de brasilia (UCB)
